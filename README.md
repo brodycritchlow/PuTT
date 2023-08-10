@@ -14,4 +14,4 @@ from putt import ...
 
 ### Nightly, and Seperate Builds
 
-We offer nightly, and seperate builds for certain sections of PUTT.
+We currently do not offer nightly, and seperate builds for certain sections of PUTT.
